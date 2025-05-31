@@ -1,0 +1,1 @@
+This is my starting project of my web dev journey. Though it is not that much complicated but at the same time it gave me an idea about the basic but the soul of the structure of a website which I found quite interesting.
